@@ -1,0 +1,65 @@
+# depslib dependency file v1.0
+1587583735 source:c:\users\vlad\desktop\cursuri\poo\tema 2\main.cpp
+	<iostream>
+	"Vector.h"
+	"MatriceAdiacenta.h"
+	"Lista.h"
+	"Graf.h"
+	"Graf_Orientat.h"
+	"Graf_Neorientat.h"
+	<fstream>
+
+1587585964 c:\users\vlad\desktop\cursuri\poo\tema 2\vector.h
+	<iostream>
+
+1587580455 c:\users\vlad\desktop\cursuri\poo\tema 2\matriceadiacenta.h
+	<istream>
+	<ostream>
+	<iostream>
+
+1587585991 c:\users\vlad\desktop\cursuri\poo\tema 2\lista.h
+	"Vector.h"
+	<iostream>
+
+1587590569 c:\users\vlad\desktop\cursuri\poo\tema 2\graf.h
+	<istream>
+	<ostream>
+	<iostream>
+
+1587580458 c:\users\vlad\desktop\cursuri\poo\tema 2\graf_orientat.h
+	"MatriceAdiacenta.h"
+	"Graf.h"
+	<iostream>
+
+1587580461 c:\users\vlad\desktop\cursuri\poo\tema 2\graf_neorientat.h
+	"Graf.h"
+	"Lista.h"
+	<iostream>
+
+1587574927 source:c:\users\vlad\desktop\cursuri\poo\tema 2\graf.cpp
+	"Graf.h"
+	<iostream>
+
+1587586173 source:c:\users\vlad\desktop\cursuri\poo\tema 2\graf_neorientat.cpp
+	"Graf_Neorientat.h"
+	<istream>
+	<ostream>
+	<iostream>
+	"Lista.h"
+
+1587575529 source:c:\users\vlad\desktop\cursuri\poo\tema 2\graf_orientat.cpp
+	"Graf_Orientat.h"
+	<iostream>
+
+1587586072 source:c:\users\vlad\desktop\cursuri\poo\tema 2\lista.cpp
+	"Lista.h"
+	"Vector.h"
+	<iostream>
+
+1587583507 source:c:\users\vlad\desktop\cursuri\poo\tema 2\matriceadiacenta.cpp
+	"MatriceAdiacenta.h"
+	<iostream>
+
+1587586086 source:c:\users\vlad\desktop\cursuri\poo\tema 2\vector.cpp
+	"Vector.h"
+
